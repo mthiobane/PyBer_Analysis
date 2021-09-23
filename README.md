@@ -8,6 +8,7 @@ Rural cities has the less number of rides for 125 rides. Also the they have the 
 The Urban cities have the highest number of Rides and drivers, the total fare is also huge for $ 39 855. But the average  fare per ride and the average fare per driver is the lowest respectively for $ 24.55 and $ 16.57.
 We observe the more the number of rides and drivers the higher the average fare per ride and average fare per driver
 ![df](https://user-images.githubusercontent.com/89410157/134581945-6c1523fb-1fb6-474d-96a7-7c78069d2aa9.png)
+#Total Fare by city type chart between January & April of 2019
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/89410157/134581961-ac04daad-b225-414e-b1b8-d691519c0774.png)
 
 # Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
